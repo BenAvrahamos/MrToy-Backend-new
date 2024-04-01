@@ -1,0 +1,32 @@
+[
+    {
+        "fullname": "momo mcMomo",
+        "username": "momo123",
+        "password": "momo",
+        "isAdmin": true
+    },
+    {
+        "fullname": "bobo mcBomo",
+        "username": "bobo123",
+        "password": "bobo",
+        "isAdmin": false
+    },
+    {
+        "fullname": "koko mcKoo",
+        "username": "koko123",
+        "password": "koko",
+        "isAdmin": false
+    },
+    {
+        "fullname": "nono mcNono",
+        "username": "nono123",
+        "password": "nono",
+        "isAdmin": false
+    },
+    {
+        "fullname": "soso mcSoso",
+        "username": "soso123",
+        "password": "soso",
+        "isAdmin": false
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Chatty Cathy",
+        "price": 199,
+        "inStock": true,
+        "labels": [
+            "Baby",
+            "Outdoor"
+        ]
+    },
+    {
+        "name": "Gabby Gabby",
+        "price": 235,
+        "inStock": false,
+        "labels": [
+            "Doll",
+            "Art"
+        ]
+    },
+    {
+        "name": "Talkie Tina",
+        "price": 215,
+        "inStock": true,
+        "labels": [
+            "Puzzle"
+        ],
+        "msgs": [
+            "Hello",
+            "hey!",
+            "how are you"
+        ]
+    },
+    {
+        "name": "Chatbot Charlotte",
+        "price": 209,
+        "inStock": false,
+        "labels": [
+            "Box game",
+            "Battery Powered"
+        ],
+        "msgs": [
+            "Hello",
+            "hey!",
+            "how are you"
+        ]
+    },
+    {
+        "name": "Babble Bella",
+        "price": 189,
+        "inStock": true,
+        "labels": [
+            "Outdoor",
+            "Puzzle",
+            "Art",
+            "Doll",
+            "Box-game"
+        ],
+        "msgs": [
+            "Hello",
+            "hey!",
+            "how are you"
+        ]
+    },
+    {
+        "name": "Giggly Gertie",
+        "price": 225,
+        "inStock": false,
+        "labels": [
+            "Art",
+            "Puzzle"
+        ],
+        "msgs": [
+            "Hello",
+            "hey!",
+            "how are you"
+        ]
+    },
+    {
+        "name": "Blabbering Betty",
+        "price": 199,
+        "inStock": true,
+        "labels": [
+            "On wheels",
+            "Baby",
+            "Art",
+            "Doll"
+        ],
+        "msgs": [
+            "Hello",
+            "hey!",
+            "how are you"
+        ]
+    },
+    {
+        "name": "Ramble Rosie",
+        "price": 210,
+        "inStock": false,
+        "labels": [
+            "Doll",
+            "Outdoor"
+        ]
+    },
+    {
+        "name": "Jabbering Jessie",
+        "price": 229,
+        "inStock": true,
+        "labels": [
+            "Puzzle",
+            "Battery Powered"
+        ]
+    },
+    {
+        "name": "Chatterbox Charlie",
+        "price": 219,
+        "inStock": false,
+        "labels": [
+            "Box game",
+            "On wheels"
+        ]
+    },
+    {
+        "name": "sfsdf",
+        "price": 55,
+        "labels": [
+            "Doll",
+            "Box-game",
+            "On-wheels"
+        ]
+    }
+]
